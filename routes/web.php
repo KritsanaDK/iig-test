@@ -9,7 +9,7 @@ use App\Http\Controllers\logout;
 
 /*
 |--------------------------------------------------------------------------
-| Web Routes
+| Web Routes KSN
 |--------------------------------------------------------------------------
 |
 | Here is where you can register web routes for your application. These
