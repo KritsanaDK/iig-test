@@ -18,10 +18,6 @@ use App\Http\Controllers\logout;
 |
 */
 
-// Route::get('/', function () {
-//     return view('welcome');
-// });
-
 Route::get('/', [login_page::class, 'index'])->name('login');
 Route::get('/index', [login_page::class, 'index'])->name('index');
 Route::get('/login', [login_page::class, 'index'])->name('login');
